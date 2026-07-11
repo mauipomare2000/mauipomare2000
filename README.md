@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey, I'm Maui
 
-<!--
-**mauipomare2000/mauipomare2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer based in New Zealand 🇳🇿
 
-Here are some ideas to get you started:
+🌍 I've traveled internationally working on large-scale, data-driven projects, with a strong focus on financial data and predictive modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building machine learning systems, exploring new algorithms, and turning complex datasets into actionable insights.
+
+### 🛠 Tech
+
+* Python
+* Pandas
+* scikit-learn
+
+> Learning something new every day and building projects along the way.
