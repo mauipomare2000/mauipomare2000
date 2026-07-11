@@ -1,15 +1,65 @@
+<div align="center">
+
 # 👋 Hey, I'm Maui
 
-Machine Learning Engineer based in New Zealand 🇳🇿
+### Machine Learning Engineer 🇳🇿
 
-🌍 I've traveled internationally working on large-scale, data-driven projects, with a strong focus on financial data and predictive modeling.
+*Building intelligent systems from data.*
 
-I enjoy building machine learning systems, exploring new algorithms, and turning complex datasets into actionable insights.
+🌍 Experienced leading international, data-driven projects, delivering machine learning and predictive analytics solutions for complex financial datasets.
 
-### 🛠 Tech
+</div>
 
-* Python
+---
+
+## 🚀 About Me
+
+* 🤖 Passionate about Machine Learning & AI
+* 📊 Experienced with predictive modeling and financial datasets
+* 🧠 Always exploring new algorithms, architectures, and research
+* 💡 Building projects that turn data into intelligent solutions
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+**Libraries & Tools**
+
 * Pandas
+* NumPy
 * scikit-learn
+* Matplotlib
+* Jupyter Notebook
+* Git
 
-> Learning something new every day and building projects along the way.
+---
+
+## 🤖 Machine Learning
+
+* 📈 Classification
+* 📉 Regression
+* 🎯 Reinforcement Learning
+* 👁️ Computer Vision (YOLO)
+* ⚙️ Feature Engineering
+* 📊 Model Evaluation & Optimization
+
+---
+
+## 📌 Current Focus
+
+* 🧠 Reinforcement Learning
+* ⚡ Deep Learning with PyTorch
+* 📊 Predictive Analytics
+* 🚀 Building production-ready ML projects
+
+---
+
+<div align="center">
+
+### *"Learning something new every day and turning ideas into intelligent systems."*
+
+</div>
