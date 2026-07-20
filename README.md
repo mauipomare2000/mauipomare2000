@@ -61,5 +61,5 @@
 <div align="center">
 
 ### *"Learning something new every day and turning ideas into intelligent systems."*
-
+https://mauipomare2000.github.io/Maui-Pomare-Resume/
 </div>
