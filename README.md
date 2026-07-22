@@ -24,7 +24,7 @@
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mysql" />
 </p>
 
 **Libraries & Tools**
